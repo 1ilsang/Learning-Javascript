@@ -7,7 +7,7 @@
 - 2장 : [자바스크립트 개발 도구 // ES6, 에버그린, 걸프(gulp), 그런트(grunt), 바벨(babel), 린트(ESLint)](http://1ilsang.blog.me/221219793471)
 - 3장 : [리터럴과 변수, 상수, 데이터 타입 // 원시타입, 템플릿 문자열, 심볼, undefined](http://1ilsang.blog.me/221220388734)
 - 4장 : [제어문 // for...in, for...of](http://1ilsang.blog.me/221220420865)
-
+- 5장 : [표현식과 연산자(Expression, statement) // mod, 전후위, 참거짓, 단축 평가, 쉼표연산자, 해체 할당](http://1ilsang.blog.me/221221570279)
 
 
 

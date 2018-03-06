@@ -8,7 +8,7 @@
 - 3장 : [리터럴과 변수, 상수, 데이터 타입 // 원시타입, 템플릿 문자열, 심볼, undefined](http://1ilsang.blog.me/221220388734)
 - 4장 : [제어문 // for...in, for...of](http://1ilsang.blog.me/221220420865)
 - 5장 : [표현식과 연산자(Expression, statement) // mod, 전후위, 참거짓, 단축 평가, 쉼표연산자, 해체 할당](http://1ilsang.blog.me/221221570279)
-
+- 6장 : [함수 // 호출과 참조, 매게변수 해체, 확장 연산자(...), 기본값, this, 화살표표기법, call, apply, bind](http://1ilsang.blog.me/221223011094)
 
 
 

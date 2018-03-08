@@ -1,11 +1,6 @@
-let f; //정의되지 않았다.
-{
-    let o = { note: 'Safe' };
-    f = function() {
-        return o;
-    };
-}
-let oRef = f();
-console.log(oRef);
-oRef.note = "Not so safe after all!";
-console.log(oRef);
+const words = ["1ilsang", "blog", "me", "sangchul", "catholic", "cuk"];
+const longWords = words.reduce((a, w) => w.length > 4 ?
+    a + " " + w : a, "").trim();
+console.log(longWords);
+
+1 ilsang sangchul catholic

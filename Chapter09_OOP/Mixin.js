@@ -21,19 +21,25 @@ class Car{
 }
 Car.nextVin = 0;
 
-const car1 = new Car("Tesla", "S");
-const car2 = new Car("Mazda", "3");
-const car3 = new Car("Mazda", "3");
+class InsurancePolicy{};
+const ADD_POLICY = Symbol();
+const GET_POLICY = Symbol();
+const IS_INSURED = Symbol();
+const _POLICY = Symbol();
 
-car1.vin;
-car2.vin;
-car3.vin;
+function makeInsurable(o) {
+    o[ADD_POLICY] = function (p) {
+        this[_POLICY] = p;
+    }
+    o[GET_POLICY] = function () {
+        return this[_POLICY];
+    }
+    o[IS_INSURED] = function () {
+        return !!this[_POLICY];
+    }
+}
 
-console.log(Car.areSimilar(car1, car2)); //False
-console.log(Car.areSimilar(car3, car2)); //True
-console.log(Car.areSame(car2, car3));    //False
-console.log(Car.areSame(car2, car2));    //True
-
-console.log(car1.toString());
-console.log(car2.toString());
-console.log(car3.toString());
+makeInsurable(Car.prototype);
+const car1= new Car();
+console.log(Car.prototype);
+// car1.ADD_POLICY(new InsurancePolicy());

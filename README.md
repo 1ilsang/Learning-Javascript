@@ -11,4 +11,4 @@
 - 6장 : [함수 // 호출과 참조, 매게변수 해체, 확장 연산자(...), 기본값, this, 화살표표기법, call, apply, bind](http://1ilsang.blog.me/221223011094)
 - 7장 : [스코프 // 전역,블록,함수 스코프, 변수 숨기기, 클로저, 즉시호출(IIFE), 호이스팅, 사각지대, use strict](http://1ilsang.blog.me/221223152697)
 - 8장 : [배열과 배열 처리 // 배열에 관련된 여러 메소드(map, filter, reduce 등)](http://1ilsang.blog.me/221224818987)
-- 9장 : [이제 추가 해야해!!](http://1ilsang.blog.me/)
+- 9장 : [객체와 객체지향 프로그래밍 // static, extends, 믹스인](http://blog.naver.com/1ilsang/221305292327)

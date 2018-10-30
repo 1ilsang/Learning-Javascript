@@ -3,9 +3,9 @@
       ![hi](http://postfiles10.naver.net/MjAxODAzMDJfMjAx/MDAxNTE5OTIyOTY3MjY1.NsNhsyhpb604f1A39znFCoPbdvVW8oWjXCcI-q-ugLYg.MVdKSDdCGIuGfDKOyTStUw8T8e2fuLTR5RqQHu4SVbMg.JPEG.1ilsang/image_1186469521519922950272.jpg?type=w966)
 ### 러닝 자바스크립트 책을 공부하며 느꼈던 생각이나 책 내용 등을 적었습니다.
   *자바스크립트 고수가 되고싶다...*
-> 책 없이 보시면 의미가 없습니다.
->
-> 꼭 책을 구입해서 같이 봐주세요.
+
+* 책 없이 보시면 의미가 없는 포스트입니다.
+* 좋은 책 써주신 저자를 위해서라도 꼭 구입하시고 봐주세요.
 
 #### Chapter 1. [첫 번째 애플리케이션](http://1ilsang.blog.me/221219717134)
 ```

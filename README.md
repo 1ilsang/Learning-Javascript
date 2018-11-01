@@ -47,7 +47,7 @@ static, extends, 믹스인, OOP
 ```
 map, set
 ```
-#### Chapter 11. [진행중]()
+#### Chapter 11. 이후 내용은 비공개
 ```
 
 ```

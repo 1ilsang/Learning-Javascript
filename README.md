@@ -31,25 +31,9 @@ mod, 전후위, 참거짓, 단축 평가, 쉼표연산자, 해체 할당
 ```
 호출과 참조, 매게변수 해체, 확장 연산자(...), 기본값, this, 화살표표기법, call, apply, bind
 ```
-#### Chapter 7. [스코프](http://1ilsang.blog.me/221223152697)
+#### Chapter 7. 스코프
 ```
-전역, 블록, 함수 스코프, 변수 숨기기, 클로저, 즉시호출(IIFE), 호이스팅, 사각지대, use strict
-```
-#### Chapter 8. [배열과 배열 처리](http://1ilsang.blog.me/221224818987)
-```
-배열에 관련된 여러 메소드(map, filter, reduce 등)
-```
-#### Chapter 9. [객체와 객체지향 프로그래밍](http://blog.naver.com/1ilsang/221305292327)
-```
-static, extends, 믹스인, OOP
-```
-#### Chapter 10. [맵과 셋](http://1ilsang.blog.me/221305941903)
-```
-map, set
-```
-#### Chapter 11. 이후 내용은 비공개
-```
-
+이후 내용은 비공개
 ```
 
 - - -
